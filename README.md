@@ -16,9 +16,9 @@ Examples:
 
 ## Como usar a API:
 
-**Passo 1: **Fazer o clone desse repositório.
-**Passo 2: **No diretório raiz executar o comando npm install.
-**Passo 3: **Para rodar o servidor executar o comando npm start.
+**Passo 1:** Fazer o clone desse repositório.<br>
+**Passo 2:** No diretório raiz executar o comando `npm install`.<br>
+**Passo 3:** Para rodar o servidor executar o comando `npm start`.
 
 # ENDPOINTS:
 
