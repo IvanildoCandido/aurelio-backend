@@ -29,7 +29,7 @@ Examples:
 **Obs:** Deve ser enviado no corpo da requisição um objeto no seguinte formato:
 ```json
 {
-    name: "fulano,
+    name: "fulano",
     surname: "silva"
 }
 ```
